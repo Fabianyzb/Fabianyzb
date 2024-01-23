@@ -14,8 +14,6 @@
  
  🌱 I’m currently learning **Three.js, Node.js**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Fabianyzb/Fabianyzb/issues)**
-
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
@@ -37,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma," />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,postgresql,flask,git" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,insomnia,nodejs,javascript,express,postgresql,flask,git" />
+    <img src="https://skillicons.dev/icons?i=" /><br>
 </div>
 
 <br/>
@@ -47,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Fabianyzb/Fabianyzb/output/github-contribution-grid-snake.svg" />
+  <<!-- img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Fabianyzb/Fabianyzb/output/github-contribution-grid-snake.svg" /> -->
   
   <br/><br/><br/>
 </div>
