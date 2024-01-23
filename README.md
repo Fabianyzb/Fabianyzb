@@ -1,20 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Fabianyzb.Fabianyzb" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fabian+Yanez!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+Fabian+Yanez!;" />
 </h1>
 
-<h3 align="center">A Web Developer from Chile</h3>
+<h3 align="center">Un Web Developer de Chile</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **My portfolio**
+ 🔭 Actualmente trabajo en **Mi portafolio**
  
- 🌱 I’m currently learning **Three.js, Node.js**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🌱 Estoy aprendiendo **Three.js, Node.js**
 
  </div>
  
@@ -32,7 +30,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Lenguajes-Frameworks-Herramientas ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,postman,nodejs,javascript,express,postgresql,flask,git" />
