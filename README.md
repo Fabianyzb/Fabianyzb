@@ -16,7 +16,7 @@ Actualmente, me encuentro inmerso en el aprendizaje continuo de Node.js y Expres
  
  🔭 Actualmente trabajo en **Mi portafolio**
  
- 🌱 Estoy aprendiendo **Three.js, Node.js**
+ 🌱 En este momento estoy aprendiendo **Three.js, Node.js**
 
  </div>
  
