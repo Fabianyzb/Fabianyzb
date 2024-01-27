@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🚴 Mi enfoque se especializa en el desarrollo Full Stack, con competencias en tecnologías clave como HTML, CSS, Bootstrap, Javascript y React. He trabajado en la creación de aplicaciones web dinámicas utilizando Flask y SQLAlchemy en el backend, y he explorado el ámbito del renderizado 3D con Three.js y Kaboom.js.
+ 🚴 Mi enfoque se especializa en el desarrollo Full Stack, con competencias en tecnologías como HTML, CSS, Bootstrap, Javascript y React. He trabajado en la creación de aplicaciones web dinámicas utilizando Flask y SQLAlchemy en el backend, y he explorado el ámbito del renderizado 3D con Three.js y Kaboom.js.
 
 Actualmente, me encuentro inmerso en el aprendizaje continuo de Node.js y Express.js para fortalecer mis habilidades en el desarrollo backend. Mi objetivo es fusionar la creatividad visual con sólidos principios técnicos para construir experiencias digitales significativas.
  
