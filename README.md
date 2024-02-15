@@ -12,17 +12,8 @@
 
  🚴 Soy un desarrollador Full Stack con experiencia en las siguientes tecnologías:
 
-Frontend:
-HTML
-CSS
-Bootstrap
-Javascript
-React
-Backend:
-Flask
-SQLAlchemy
-Node.js (en proceso de aprendizaje)
-Express.js (en proceso de aprendizaje). 
+Frontend: HTML, CSS, Bootstrap, Javascript, React.
+Backend: Flask, SQLAlchemy, Node.js (en proceso de aprendizaje), Express.js (en proceso de aprendizaje).
 Además, he explorado el mundo del renderizado 3D utilizando Three.js y Kaboom.js.
 
 Mi objetivo es combinar la creatividad visual con sólidos principios técnicos para construir experiencias digitales significativas.
