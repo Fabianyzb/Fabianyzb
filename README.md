@@ -29,6 +29,6 @@
 <h2 align="center">⚒️ Lenguajes-Frameworks-Herramientas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,postman,nodejs,javascript,express,postgresql,flask,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,postman,nodejs,javascript,express,postgresql,flask,git,python" />
     <!-- <img src="https://skillicons.dev/icons?i=" /><br> -->
 </div>
